@@ -1,0 +1,8 @@
+# For PHPStorm
+.idea
+
+# NPM
+node_modules
+
+# Build files
+build
